@@ -10,7 +10,13 @@
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}"  >
        
         <StackPanel Orientation="Vertical"  Background="Black" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            <ProgressRing x:Name="progress" Height="50" Width="50" Foreground="Pink"> </ProgressRing>
+            <Slider ValueChanged="Slider_ValueChanged" Width="200">                                
+            </Slider>
+            <TextBlock HorizontalAlignment="Center" FontSize="48"/>
+            <Slider ValueChanged="Slider_ValueChanged" Height="100" Width="200" Foreground="Red">                
+            </Slider>
+            <TextBlock HorizontalAlignment="Center" FontSize="48"/>
+                <ProgressRing x:Name="progress" Height="50" Width="50" Foreground="Pink"> </ProgressRing>
             <ProgressBar/>
             <TextBlock Text="Rectangle:" 
                        VerticalAlignment="Center"/>
