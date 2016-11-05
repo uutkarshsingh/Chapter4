@@ -15,10 +15,6 @@ C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examp
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\MainPage.xaml
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\Chapter4Examples.exe
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\Chapter4Examples.pdb
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\priconfig.xml.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\layout.resfiles.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\resources.resfiles.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\pri.resfiles.intermediate
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\priconfig.xml
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\layout.resfiles
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\obj\Debug\resources.resfiles

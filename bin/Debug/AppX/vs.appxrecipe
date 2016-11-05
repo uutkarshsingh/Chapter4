@@ -6,6 +6,11 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <RegisteredManifestChecksum>9F526801CBE62917DFCF343EF6D33E06E3F14F00F431490E14B28B0AC926F04B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cfce70c1-e427-416d-b1b2-88408c0dd65b_1.0.0.0_neutral__r7raznjkv09h4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cfce70c1-e427-416d-b1b2-88408c0dd65b_r7raznjkv09h4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cfce70c1-e427-416d-b1b2-88408c0dd65b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=uutkarshsingh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\AppxManifest.xml">
@@ -17,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\Chapter4Examples.exe">
       <PackagePath>Chapter4Examples.exe</PackagePath>
-      <Modified>2016-11-05T10:50:06.945</Modified>
+      <Modified>2016-11-05T10:55:37.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\Chapter4Examples.pdb">
       <PackagePath>Chapter4Examples.pdb</PackagePath>
-      <Modified>2016-11-05T10:50:06.795</Modified>
+      <Modified>2016-11-05T10:55:37.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -53,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2016-11-05T10:49:53.775</Modified>
+      <Modified>2016-11-05T10:55:33.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

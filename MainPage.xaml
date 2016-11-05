@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Ellipse Stroke="Red" StrokeThickness="24" Fill="Blue" >            
-        </Ellipse>
+        <Rectangle Stroke="Red" StrokeThickness="24" Fill="Blue" Height="500" Width="500" >
+        </Rectangle >
     </Grid>
 </Page>
