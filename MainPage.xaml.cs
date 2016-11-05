@@ -33,6 +33,8 @@ namespace Chapter4Examples
         /// property is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+
+            progress.IsActive = true;
         }
     }
 }

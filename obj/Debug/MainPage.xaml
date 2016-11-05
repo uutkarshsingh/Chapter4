@@ -8,8 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}"  >
-        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
-            
+       
+        <StackPanel Orientation="Vertical"  Background="Black" VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <ProgressRing x:Name="progress" Height="50" Width="50" Foreground="Pink"> </ProgressRing>
+            <ProgressBar/>
             <TextBlock Text="Rectangle:" 
                        VerticalAlignment="Center"/>
             <Rectangle Stroke="Blue"

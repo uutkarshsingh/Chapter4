@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\Chapter4Examples.exe">
       <PackagePath>Chapter4Examples.exe</PackagePath>
-      <Modified>2016-11-05T15:35:24.912</Modified>
+      <Modified>2016-11-05T17:42:05.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\Chapter4Examples.pdb">
       <PackagePath>Chapter4Examples.pdb</PackagePath>
-      <Modified>2016-11-05T15:35:24.817</Modified>
+      <Modified>2016-11-05T17:42:05.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2016-11-05T15:02:22.030</Modified>
+      <Modified>2016-11-05T17:42:03.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Chapter4Examples\Chapter4Examples\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
