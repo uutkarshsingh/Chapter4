@@ -8,7 +8,21 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Rectangle Stroke="Red" StrokeThickness="24" Fill="Blue" Height="500" Width="500" >
-        </Rectangle >
+        <StackPanel>
+            <TextBlock Text="Right--Aligned Text"
+                       FontSize="48"
+                       HorizontalAlignment="Right"/>
+            <Image Source="http://www.charlespetzold.com/pw6/PetzoldJersey.jpg"
+                   Stretch="None"/>
+            <TextBlock Text="Figure 1. Petzold heading to the basketball court"
+                       FontSize="24"
+                       HorizontalAlignment="Center"/>
+            <Ellipse Stroke="Red"
+                     StrokeThickness="12"
+                     Fill="Blue"/>
+            <TextBlock Text="Left-ALigned Text"
+                       FontSize="36"
+                       HorizontalAlignment="Left"/>
+        </StackPanel>
     </Grid>
 </Page>
